@@ -14,7 +14,7 @@
 
 ## 🔧 Technologies & Tools
 
-![Code-Python](https://img.shields.io/badge/Code-Python-%234a8ec9)![Code-Java](https://img.shields.io/badge/Code-Java-%234a8ec9)![Code-C](https://img.shields.io/badge/Code-C%2B%2B-%234a8ec9)![Tools-Docker](https://img.shields.io/badge/Tools-Docker-%234a8ec9)
+![Code-Python](https://img.shields.io/badge/Code-Python-%234a8ec9)  ![Code-Java](https://img.shields.io/badge/Code-Java-%234a8ec9)  ![Code-C](https://img.shields.io/badge/Code-C%2B%2B-%234a8ec9)  ![Tools-Docker](https://img.shields.io/badge/Tools-Docker-%234a8ec9)
 
 ## 📈 Github Stats
 
