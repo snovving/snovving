@@ -1,4 +1,4 @@
-# Hi there !❄️
+# Hi there !
 
 来自湖科的一名信息安全学生，退休佛系 CTFer ，志于代码审计方向，崇拜对象自然是 phthi0n ！
 
