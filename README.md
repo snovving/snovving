@@ -17,7 +17,7 @@
 ![Code-Python](https://img.shields.io/badge/Code-Python-%234a8ec9)  ![Code-Java](https://img.shields.io/badge/Code-Java-%234a8ec9)  ![Code-C](https://img.shields.io/badge/Code-C%2B%2B-%234a8ec9)  ![Tools-Docker](https://img.shields.io/badge/Tools-Docker-%234a8ec9)
 
 ## Rewards & Certificates
-注：从 2020 年开始只单人参赛，团队参赛我觉得不能代表个人水平。
+注：从 2020 开始都是单人参赛，原因无他，大部分“CTFer”不讲武德。
 - 2019.12 湖南省第三届网络安全技能竞赛本科组初赛、决赛二等奖
 
 ## Github Stats
