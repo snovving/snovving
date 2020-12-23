@@ -21,7 +21,7 @@
 - 2019.12 湖南省第三届网络安全技能竞赛本科组初赛、决赛二等奖
 - 2020.10 全国工业互联网安全技术技能大赛（护网杯）个人参赛排名全国 56
 
-![](https://i.loli.net/2020/12/23/1d5X2svw3VoFrEC.png)
+<img src="https://i.loli.net/2020/12/23/1d5X2svw3VoFrEC.png" style="zoom:80%;" />
 
 ## Github Stats
 
